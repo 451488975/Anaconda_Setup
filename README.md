@@ -10,4 +10,4 @@ Create a github account and sign in. You can download the repository by clicking
 
 ## Install Anaconda
 
-If your have an NVIDIA GPU (such as GTX 10 series, RTX 20 series), follow GPU installation guide. Otherwise, please head to CPU_with_WSL installation guide.
+Please follow the Anaconda_setup.ipynb documentation to install Anaconda
